@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  App-Clip-WebSocket-Test
+//  WebSocket Test Clip
 //
 //  Created by Shun Kashiwa on 2022/06/15.
 //
@@ -29,4 +29,3 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
-
